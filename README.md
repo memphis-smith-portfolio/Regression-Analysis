@@ -1,1 +1,3 @@
 # Regression-Analysis
+
+A local real estate agent is retiring, and would like to set up their protege to thrive after they leave the company. They have requested that a model be prepared that will help support the business in the future with a frame of reference for evaluating housing bids, in order to make sure that the homebuyers are not over-charged and that the business is not underpaid. This will help their protege gauge effective asking prices, and assist in the bartering process. The reputation of the firm as a hard-driver for competitive deals is on the line, and machine learning is able to help ensure the organization's success.
